@@ -4,3 +4,7 @@
   width: 515px;
   height: 316px;
 }
+
+.video__iframe:last-child {
+  margin-right: 0;
+}
